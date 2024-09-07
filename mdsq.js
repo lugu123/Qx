@@ -22,7 +22,7 @@
     麻豆射区: https://uu.z78l8cz.cc/?pc=1ZKIP6WX
     微勃: https://qq.wyuwcqm.cc?pc=Y61HE948
 ******************************************\
-http[s]?://.*(yal09zp|yuwhuxuw|d4s000ejiic|uzro0z3|bytebwq|qrneryt|dirptev|saejeuj|4bmqesfias9|epn54fk5njw|djsusdjexs4|zxt9kf4|djqyarm|cmmsjbu|iomaqzd|ledyqrr|oenwfkbaamamdq|irkkykyrabxiej).+/api/app/(ping/config|media/(play|homev2|short/recommend)|user/info) url script-response-body https://raw.githubusercontent.com/Yuheng0101/X/main/Scripts/mdsq.js
+http[s]?://.*(yal09zp|yuwhuxuw|d4s000ejiic|uzro0z3|bytebwq|qrneryt|dirptev|saejeuj|4bmqesfias9|epn54fk5njw|djsusdjexs4|zxt9kf4|djqyarm|cmmsjbu|iomaqzd|ledyqrr|oenwfkbaamamdq|irkkykyrabxiej).+/api/app/(ping/config|media/(play|homev2|short/recommend)|user/info) url script-response-body https://raw.githubusercontent.com/lugu123/Qx/main/mdsq.js
 #加上抓包的网站域名如zxt9kf4
 hostname=*bytebwq.com,*qrneryt.com,*dirptev.com,*saejeuj.com,*uzro0z3.com,*d4s000ejiic.com,*yuwhuxuw.com,*yal09zp.com,*.4bmqesfias9.com,*.epn54fk5njw.com,*.djsusdjexs4.com,*.zxt9kf4.com,*.djqyarm.com,*.cmmsjbu.com,*.iomaqzd.com,*.ledyqrr.com,*.oenwfkbaamamdq.com,*.irkkykyrabxiej.com,wbql.zxt9kf4.com
 #加上抓包的网站域名如wbql.zxt9kf4.com
