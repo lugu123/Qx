@@ -36,7 +36,7 @@
 
 hostname=*kcfiysi*,*yuwhuxuw.com,*vedlfer.com,*qxl2bsw3.cc,*21zhf4ji.cc
 #加上抓包的主页地址如shtian.kcfiysi.com
-^http[s]?:\/\/.*(kcfiysi|yuwhuxuw|vedlfer|qxl2bsw3|21zhf4ji).*api\/app/(ping\/config|media\/home|user\/info|media\/play|comics\/detail|post\/list) url script-response-body 麻豆射区|微勃|逼哩逼哩解锁.js
+^http[s]?:\/\/.*(kcfiysi|yuwhuxuw|vedlfer|qxl2bsw3|21zhf4ji).*api\/app/(ping\/config|media\/home|user\/info|media\/play|comics\/detail|post\/list) url script-response-body https://raw.githubusercontent.com/lugu123/Qx/refs/heads/main/lsp.js
 
 ####
 
